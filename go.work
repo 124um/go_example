@@ -3,4 +3,6 @@ go 1.19
 use (
 	./http_client
 	./http_client/coincap
+	./pingrobot
+	./pingrobot/workerpool
 )
